@@ -20,8 +20,5 @@ Where I copy-paste answers:<br/>
 
 ## 🏆 Trophies for Clicking on Things:
 
-(Yes, I display these because validation is important)
+*(Yes, I display these because validation is important)*
 ![](https://github-profile-trophy.vercel.app/?username=Pix3lexe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Pix3lexe&icon=0&color=0)](https://visitcount.itsvg.in)
