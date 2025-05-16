@@ -26,7 +26,7 @@ Where I copy-paste answers:<br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pix3lexe&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pix3lexe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pix3lexe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages">
 </div>
 
 ## 🏆 Trophies for Clicking on Things:
