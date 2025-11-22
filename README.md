@@ -1,36 +1,49 @@
-<div align="center" text-align="center" style="inline-block">
+<div align="center">
   
 <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123319063&shape=circle" height=200>
 
-<h2>Pix3lexe</h2>
+<br>
 
-B.Sc. student in Applied Mathematics and Computer Science at FH Aachen
+<h1>Pix3lexe</h1>
 
-Studying Japanese by myself because apparently sleep is optional
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=B.Sc.+Applied+Mathematics+%26+Computer+Science;Studying+Japanese+%7C+%E5%A4%9A%E5%88%86%E4%BB%8AAnki%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B;Ricing+addict;Sleep+is+optional%2C+configs+are+not" alt="Typing SVG" />
 
-多分今Ankiで日本語の練習をしている (Probably grinding Anki right now...)
-
-<h2>🌐 Socials:</h2>
-Where I share my latest rice that took way too long to configure:<br/>
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pixelmonke)<br/>
-Where I copy-paste answers:<br/>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30528244) 
-
-<h2>My dotfile addiction:</h2>
-
+### About Me
+<div align="left">
+  
+```yaml
+name: Pix3lexe
+location: Germany
+languages:
+  human: ["German", "English", "Japanese (learning)"]
+  programming: ["C++", "Python", "Shell Script"]
 ```
-"I've been clean for maybe days without tweaking my config."
-```
+</div>
 
 <div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pix3lexe&theme=catppuccin_mocha&hide_border=true&background=1E1E2E00" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pix3lexe&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E00&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="48%"/>
+</div>
+
+### ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
   <a href="https://github.com/Pix3lexe/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pix3lexe&repo=dotfiles&theme=catppuccin_mocha" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pix3lexe&repo=dotfiles&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
   </a>
-  <br><em>← My life's work</em>
-</div>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pix3lexe&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pix3lexe&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
+</td>
+
+<td width="50%">
+  <a href="https://github.com/Pix3lexe/heavens_stdout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pix3lexe&repo=heavens_stdout&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+  </a>
+</td>
+
+</tr>
+</table>
