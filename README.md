@@ -6,7 +6,7 @@
 
 <h1>Pix3lexe</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=B.Sc.+Applied+Mathematics+%26+Computer+Science;Studying+Japanese+%7C+%E5%A4%9A%E5%88%86%E4%BB%8AAnki%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B;Ricing+addict;Sleep+is+optional%2C+configs+are+not" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=B.Sc.+student+Applied+Mathematics+%26+Computer+Science;Studying+Japanese+%7C+%E5%A4%9A%E5%88%86%E4%BB%8AAnki%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B;Ricing+addict;Sleep+is+optional%2C+configs+are+not" alt="Typing SVG" />
 
 ### About Me
 <div align="left">
