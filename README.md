@@ -21,11 +21,11 @@ languages:
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pix3lexe&theme=catppuccin_mocha&hide_border=true&background=1E1E2E00" alt="GitHub Streak" width="48%"/>
+  <img src="profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pix3lexe&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E00&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="profile/stats.svg" alt="GitHub Stats"/>
 </div>
 
 ### ⭐ Featured Projects
@@ -35,13 +35,13 @@ languages:
 
 <td width="50%">
   <a href="https://github.com/Pix3lexe/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pix3lexe&repo=dotfiles&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+    <img src="profile/pin-dotfiles.svg" />
   </a>
 </td>
 
 <td width="50%">
   <a href="https://github.com/Pix3lexe/heavens_stdout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pix3lexe&repo=heavens_stdout&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+    <img src="profile/pin-heavens_stdout.svg" />
   </a>
 </td>
 
