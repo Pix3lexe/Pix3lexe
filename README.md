@@ -22,13 +22,13 @@ languages:
 </div>
 
 <div align="center">
-  <img src="profile/top-langs-light.svg" alt="Top Languages" id="gh-light-mode-only"/>
-  <img src="profile/top-langs-dark.svg" alt="Top Languages" id="gh-dark-mode-only"/>
+  <img src="profile/top-langs-light.svg#gh-light-mode-only" alt="Top Languages"/>
+  <img src="profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="profile/stats-light.svg" alt="GitHub Stats" id="gh-light-mode-only"/>
-  <img src="profile/stats-dark.svg" alt="GitHub Stats" id="gh-dark-mode-only"/>
+  <img src="profile/stats-light.svg#gh-light-mode-only" alt="GitHub Stats"/>
+  <img src="profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats"/>
 </div>
 
 ### ⭐ Featured Projects
@@ -38,15 +38,15 @@ languages:
 
 <td width="50%">
   <a href="https://github.com/Pix3lexe/dotfiles">
-    <img src="profile/pin-dotfiles-light.svg" id="gh-light-mode-only"/>
-    <img src="profile/pin-dotfiles-dark.svg" id="gh-dark-mode-only"/>
+    <img src="profile/pin-dotfiles-light.svg#gh-light-mode-only"/>
+    <img src="profile/pin-dotfiles-dark.svg#gh-dark-mode-only"/>
   </a>
 </td>
 
 <td width="50%">
   <a href="https://github.com/Pix3lexe/heavens_stdout">
-    <img src="profile/pin-heavens_stdout-light.svg" id="gh-light-mode-only"/>
-    <img src="profile/pin-heavens_stdout-dark.svg" id="gh-dark-mode-only"/>
+    <img src="profile/pin-heavens_stdout-light.svg#gh-light-mode-only"/>
+    <img src="profile/pin-heavens_stdout-dark.svg#gh-dark-mode-only"/>
   </a>
 </td>
 
