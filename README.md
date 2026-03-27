@@ -31,20 +31,22 @@ languages:
   <img src="profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats"/>
 </div>
 
-### ⭐ Featured Projects
+### Featured Projects
 
 <div align="center">
   <a href="https://github.com/Pix3lexe/dotfiles#gh-light-mode-only">
-    <img src="profile/pin-dotfiles-light.svg" width="49%"/>
+    <img src="profile/pin-dotfiles-light.svg"/>
   </a>
   <a href="https://github.com/Pix3lexe/dotfiles#gh-dark-mode-only">
-    <img src="profile/pin-dotfiles-dark.svg" width="49%"/>
+    <img src="profile/pin-dotfiles-dark.svg"/>
   </a>
+</div>
+<div>
   <a href="https://github.com/Pix3lexe/heavens_stdout#gh-light-mode-only">
-    <img src="profile/pin-heavens_stdout-light.svg" width="49%"/>
+    <img src="profile/pin-heavens_stdout-light.svg"/>
   </a>
   <a href="https://github.com/Pix3lexe/heavens_stdout#gh-dark-mode-only">
-    <img src="profile/pin-heavens_stdout-dark.svg" width="49%"/>
+    <img src="profile/pin-heavens_stdout-dark.svg"/>
   </a>
 </div>
 
