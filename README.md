@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=B.Sc.+student+Applied+Mathematics+%26+Computer+Science;Studying+Japanese+%7C+%E6%81%90%E3%82%89%E3%81%8F%E4%BB%8AAnki%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E7%B7%B4%E7%BF%92%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B;Ricing+addict;Sleep+is+optional%2C+configs+are+not" alt="Typing SVG" />
 
 ### About Me
+
 <div align="left">
   
 ```yaml
@@ -21,11 +22,13 @@ languages:
 </div>
 
 <div align="center">
-  <img src="profile/top-langs.svg" alt="Top Languages"/>
+  <img src="profile/top-langs-light.svg" alt="Top Languages" id="gh-light-mode-only"/>
+  <img src="profile/top-langs-dark.svg" alt="Top Languages" id="gh-dark-mode-only"/>
 </div>
 
 <div align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats"/>
+  <img src="profile/stats-light.svg" alt="GitHub Stats" id="gh-light-mode-only"/>
+  <img src="profile/stats-dark.svg" alt="GitHub Stats" id="gh-dark-mode-only"/>
 </div>
 
 ### ⭐ Featured Projects
@@ -35,13 +38,15 @@ languages:
 
 <td width="50%">
   <a href="https://github.com/Pix3lexe/dotfiles">
-    <img src="profile/pin-dotfiles.svg" />
+    <img src="profile/pin-dotfiles-light.svg" id="gh-light-mode-only"/>
+    <img src="profile/pin-dotfiles-dark.svg" id="gh-dark-mode-only"/>
   </a>
 </td>
 
 <td width="50%">
   <a href="https://github.com/Pix3lexe/heavens_stdout">
-    <img src="profile/pin-heavens_stdout.svg" />
+    <img src="profile/pin-heavens_stdout-light.svg" id="gh-light-mode-only"/>
+    <img src="profile/pin-heavens_stdout-dark.svg" id="gh-dark-mode-only"/>
   </a>
 </td>
 
