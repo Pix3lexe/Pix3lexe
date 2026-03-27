@@ -33,24 +33,15 @@ languages:
 
 ### ⭐ Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
+<div align="center">
   <a href="https://github.com/Pix3lexe/dotfiles">
-    <img src="profile/pin-dotfiles-light.svg#gh-light-mode-only"/>
-    <img src="profile/pin-dotfiles-dark.svg#gh-dark-mode-only"/>
+    <img src="profile/pin-dotfiles-light.svg#gh-light-mode-only" width="49%"/>
+    <img src="profile/pin-dotfiles-dark.svg#gh-dark-mode-only" width="49%"/>
   </a>
-</td>
-
-<td width="50%">
   <a href="https://github.com/Pix3lexe/heavens_stdout">
-    <img src="profile/pin-heavens_stdout-light.svg#gh-light-mode-only"/>
-    <img src="profile/pin-heavens_stdout-dark.svg#gh-dark-mode-only"/>
+    <img src="profile/pin-heavens_stdout-light.svg#gh-light-mode-only" width="49%"/>
+    <img src="profile/pin-heavens_stdout-dark.svg#gh-dark-mode-only" width="49%"/>
   </a>
-</td>
-
-</tr>
-</table>
+</div>
 
 <img src="https://github.com/user-attachments/assets/be31a782-d7a2-4e6f-a7da-9584f2cbbe64" width="100%"/>
