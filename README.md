@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123319063&shape=circle" height=200>
 
 <br>
@@ -11,7 +11,7 @@
 ### About Me
 
 <div align="left">
-  
+
 ```yaml
 name: Simon
 location: Germany
@@ -19,6 +19,7 @@ languages:
   human: ["German", "English", "Japanese (learning)"]
   programming: ["C++", "Python", "Shell Script"]
 ```
+
 </div>
 
 <div align="center">
